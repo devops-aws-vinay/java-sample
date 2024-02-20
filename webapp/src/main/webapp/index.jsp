@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
 
-<h1>this is jenkins project</h1>
-
-</body>
-</html>
+<h2 style="color:black;text-align:center"> Its time to start DevOps Project-1 !!!</h2>
+<h3 style="color:blue;text-align:center">Thank You so much!!!</h3>
